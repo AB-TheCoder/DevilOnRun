@@ -15,3 +15,7 @@
 ## requirments
 * python 
 * MORE REASERCH
+
+## Goals:
+* i have to work 30 mins upon ths project everyday.
+
