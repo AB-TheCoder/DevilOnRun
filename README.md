@@ -4,6 +4,7 @@ A fast-paced 2D arcade game where a fearless devil races across a dangerous worl
 
 ## 🎮 About the Game
 
+
 **Devil Runs the Line** is a full-fledged 2D game built around a simple idea: **keep moving and overcome everything in your path**.
 
 You control a devil sprite traveling across a 2D plane filled with dynamic obstacles. From speeding vehicles to massive trains and other hazards, every moment demands quick reactions and precise movement.
@@ -184,3 +185,21 @@ This project is currently under development. License information will be added i
 **One plane. Endless obstacles.**
 
 **Can you survive the journey?**
+=======
+* taking inspiration from other games : i would be never ending game in which a devil like sprite will moves crossing different obstacles in 
+2d plane.
+* the theme would be darl as suited by the central plot behind the game.
+* i will try to make it as smooth and independently made as possible
+* it will be a full fleged game with log in and log of to give real app feeling
+* i would take it as a apple app and actually play on my phone to cpmplete my project.
+* 
+
+## funda 
+* i will be ceating this game in python and then create a andriod app with frontend loging in and off software and even a website
+* i will also be giving my project for monitization to hackatime and hack lab.
+* it would work as a normal game except this time i would be using and trying out different modules.
+### there will be a devil sprite which will run in the 2d game plan .
+## requirments
+* python 
+* MORE REASERCH
+
